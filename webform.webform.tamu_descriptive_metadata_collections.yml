@@ -1,4 +1,4 @@
-uuid: 1110f3b9-0811-4c62-85fd-47dbf99fb7b6
+uuid: 88d22803-38ea-4f35-b085-7d794822c1db
 langcode: en
 status: open
 dependencies:
@@ -11,8 +11,8 @@ uid: 1
 template: false
 archive: false
 id: digital_object_collection
-title: 'Default Digital Object Collection'
-description: 'Default Digital Object Collection Webform: 1.3.0.'
+title: 'TAMU Digital Object Collection Form'
+description: 'Our Digital Object Collection Webform: 1.3.0.'
 categories:
   - Archipelago
 elements: |-
